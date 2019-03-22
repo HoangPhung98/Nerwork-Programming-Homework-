@@ -1,0 +1,4 @@
+﻿  VD5_MultiThread_TelnetServer_Client.cpp
+c:\users\hoang phung\source\repos\vd5_multithread\vd5_multithread_telnetserver_client\vd5_multithread_telnetserver_client.cpp(47): warning C4101: 'buff_user_info': unreferenced local variable
+c:\users\hoang phung\source\repos\vd5_multithread\vd5_multithread_telnetserver_client\vd5_multithread_telnetserver_client.cpp(46): warning C4101: 'buff_check_login': unreferenced local variable
+  VD5_MultiThread_TelnetServer_Client.vcxproj -> C:\Users\Hoang Phung\source\repos\VD5_MultiThread\Debug\VD5_MultiThread_TelnetServer_Client.exe

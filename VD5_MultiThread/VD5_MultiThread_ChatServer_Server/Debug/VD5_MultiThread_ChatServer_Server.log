@@ -1,0 +1,3 @@
+﻿  VD5_MultiThread_ChatServer_Server.cpp
+c:\users\hoang phung\source\repos\vd5_multithread\vd5_multithread_chatserver_server\vd5_multithread_chatserver_server.cpp(20): warning C4101: 'ret_accept': unreferenced local variable
+  VD5_MultiThread_ChatServer_Server.vcxproj -> C:\Users\Hoang Phung\source\repos\VD5_MultiThread\Debug\VD5_MultiThread_ChatServer_Server.exe

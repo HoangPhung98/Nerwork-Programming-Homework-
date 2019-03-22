@@ -1,0 +1,23 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC07-F9CF
+
+ Directory of C:\Users\Hoang Phung\source\repos\VD8_WSAAsyncSelect\Debug
+
+03/22/2019  04:53 PM    <DIR>          .
+03/22/2019  04:53 PM    <DIR>          ..
+03/20/2019  04:16 PM           156,160 ChatServer_Client.exe
+03/20/2019  04:16 PM           452,040 ChatServer_Client.ilk
+03/20/2019  04:16 PM           765,952 ChatServer_Client.pdb
+03/20/2019  05:24 PM           163,328 ChatServer_Server.exe
+03/20/2019  05:24 PM           466,928 ChatServer_Server.ilk
+03/20/2019  05:24 PM           782,336 ChatServer_Server.pdb
+03/22/2019  05:10 PM                 0 out.txt
+03/22/2019  04:53 PM           156,672 TelnetServer_Client.exe
+03/22/2019  04:53 PM           427,204 TelnetServer_Client.ilk
+03/22/2019  04:53 PM           643,072 TelnetServer_Client.pdb
+03/22/2019  05:08 PM           165,376 TelnetServer_Server.exe
+03/22/2019  05:08 PM           611,868 TelnetServer_Server.ilk
+03/22/2019  05:08 PM           831,488 TelnetServer_Server.pdb
+03/20/2019  05:16 PM                49 user.txt
+              14 File(s)      5,622,473 bytes
+               2 Dir(s)  201,036,791,808 bytes free

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (VD5+MultiThread_TelnetServer_Server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  VD5_MultiThread_TelnetServer_Server.cpp
+c:\users\hoang phung\source\repos\vd5_multithread\vd5+multithread_telnetserver_server\vd5_multithread_telnetserver_server.cpp(50): warning C4101: 'ret_recvNewConnection': unreferenced local variable
+  VD5+MultiThread_TelnetServer_Server.vcxproj -> C:\Users\Hoang Phung\source\repos\VD5_MultiThread\Debug\VD5_MultiThread_TelnetServer_Server.exe

@@ -1,0 +1,4 @@
+﻿  ChatServer_Client.cpp
+c:\users\hoang phung\source\repos\vd6_offical\chatserver_client\chatserver_client.cpp(39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang phung\source\repos\vd6_offical\chatserver_client\chatserver_client.cpp(15): warning C4101: 'fdwrite': unreferenced local variable
+  ChatServer_Client.vcxproj -> C:\Users\Hoang Phung\source\repos\VD6_Offical\x64\Debug\ChatServer_Client.exe

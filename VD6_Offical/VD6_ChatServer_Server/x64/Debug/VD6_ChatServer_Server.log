@@ -1,0 +1,24 @@
+﻿  VD6_ChatServer_Server.cpp
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(64): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(64): note: consider using '%lld' in the format string
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(64): note: consider using '%Id' in the format string
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(64): note: consider using '%I64d' in the format string
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(80): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(80): note: consider using '%lld' in the format string
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(80): note: consider using '%Id' in the format string
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(80): note: consider using '%I64d' in the format string
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(89): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(97): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(97): note: consider using '%lld' in the format string
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(97): note: consider using '%Id' in the format string
+  c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(97): note: consider using '%I64d' in the format string
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(35): warning C4101: 'buff_sendToClient': unreferenced local variable
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(20): warning C4101: 'ret_accept': unreferenced local variable
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(143): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(147): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang phung\source\repos\vd6_offical\vd6_chatserver_server\vd6_chatserver_server.cpp(159): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VD6_ChatServer_Server.vcxproj -> C:\Users\Hoang Phung\source\repos\VD6_Offical\x64\Debug\VD6_ChatServer_Server.exe

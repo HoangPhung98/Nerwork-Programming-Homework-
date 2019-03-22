@@ -1,0 +1,24 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC07-F9CF
+
+ Directory of C:\Users\Hoang Phung\source\repos\VD8_WSAAsyncSelect\TelnetServer_Server
+
+03/22/2019  04:58 PM    <DIR>          .
+03/22/2019  04:58 PM    <DIR>          ..
+03/22/2019  04:58 PM    <DIR>          Debug
+03/22/2019  05:05 PM                 0 out.txt
+03/20/2019  05:24 PM               805 Resource.h
+01/25/2019  04:26 PM            46,227 small.ico
+03/20/2019  04:54 PM                21 stdafx.cpp
+03/20/2019  04:54 PM               522 stdafx.h
+03/20/2019  04:54 PM               314 targetver.h
+03/22/2019  04:58 PM            10,511 TelnetServer_Server.cpp
+03/20/2019  04:54 PM                39 TelnetServer_Server.h
+01/25/2019  04:26 PM            46,227 TelnetServer_Server.ico
+03/20/2019  04:54 PM             7,034 TelnetServer_Server.rc
+03/20/2019  05:24 PM             8,485 TelnetServer_Server.vcxproj
+03/20/2019  04:54 PM             1,848 TelnetServer_Server.vcxproj.filters
+03/20/2019  04:54 PM               165 TelnetServer_Server.vcxproj.user
+03/20/2019  05:16 PM                49 user.txt
+              14 File(s)        122,247 bytes
+               3 Dir(s)  201,034,346,496 bytes free

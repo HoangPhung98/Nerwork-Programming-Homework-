@@ -1,0 +1,27 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC07-F9CF
+
+ Directory of C:\Users\Hoang Phung\source\repos\VD5_MultiThread\Debug
+
+03/17/2019  11:00 PM    <DIR>          .
+03/17/2019  11:00 PM    <DIR>          ..
+03/17/2019  11:02 PM                 0 output.txt
+03/17/2019  11:20 PM                 0 output2.txt
+03/17/2019  03:47 PM                76 user.txt
+03/17/2019  03:21 PM            39,936 VD5+MultiThread_TelnetServer_Server.exe
+03/17/2019  03:21 PM           373,088 VD5+MultiThread_TelnetServer_Server.ilk
+03/17/2019  03:21 PM           503,808 VD5+MultiThread_TelnetServer_Server.pdb
+03/16/2019  11:22 PM            39,936 VD5_MultiThread_ChatServer_Client.exe
+03/16/2019  11:22 PM           412,716 VD5_MultiThread_ChatServer_Client.ilk
+03/16/2019  11:22 PM           675,840 VD5_MultiThread_ChatServer_Client.pdb
+03/16/2019  11:22 PM            40,960 VD5_MultiThread_ChatServer_Server.exe
+03/16/2019  11:22 PM           460,920 VD5_MultiThread_ChatServer_Server.ilk
+03/16/2019  11:22 PM           675,840 VD5_MultiThread_ChatServer_Server.pdb
+03/17/2019  04:14 PM            39,936 VD5_MultiThread_TelnetServer_Client.exe
+03/17/2019  04:14 PM           381,628 VD5_MultiThread_TelnetServer_Client.ilk
+03/17/2019  04:14 PM           667,648 VD5_MultiThread_TelnetServer_Client.pdb
+03/17/2019  11:20 PM            46,080 VD5_MultiThread_TelnetServer_Server.exe
+03/17/2019  11:20 PM           628,900 VD5_MultiThread_TelnetServer_Server.ilk
+03/17/2019  11:20 PM           782,336 VD5_MultiThread_TelnetServer_Server.pdb
+              18 File(s)      5,769,648 bytes
+               2 Dir(s)  200,684,429,312 bytes free
